@@ -35,5 +35,7 @@ streamlit run app.py
 ```
 streamlit run main.py
 ```
+5. Открытие в браузере
+Приложение автоматически откроется в браузере по адресу: http://localhost:8501
 
 <img src="res/app_screen.png" width="900">
